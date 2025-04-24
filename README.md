@@ -1,4 +1,4 @@
-Build
+# Build
 docker build -t jenkins-custom -f Dockerfile .
 
 # run Jenkins on docker
